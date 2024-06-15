@@ -1,0 +1,16 @@
+<svg width="33.000000" height="33.000000" viewBox="0 0 33 33" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<clipPath id="clip9_28">
+			<rect id="Проверять" width="33.000000" height="32.999996" fill="white" fill-opacity="0"/>
+		</clipPath>
+	</defs>
+	<g clip-path="url(#clip9_28)">
+		<path id="path" d="M16.5 30.25C20.29 30.25 23.73 28.71 26.22 26.22C28.71 23.73 30.25 20.29 30.25 16.5C30.25 12.7 28.71 9.26 26.22 6.77C23.73 4.28 20.29 2.75 16.5 2.75C12.7 2.75 9.26 4.28 6.77 6.77C4.28 9.26 2.75 12.7 2.75 16.5C2.75 20.29 4.28 23.73 6.77 26.22C9.26 28.71 12.7 30.25 16.5 30.25Z" fill="#000000" fill-opacity="0" fill-rule="nonzero"/>
+		<path id="path" d="M26.22 26.22C28.71 23.73 30.25 20.29 30.25 16.5C30.25 12.7 28.71 9.26 26.22 6.77C23.73 4.28 20.29 2.75 16.5 2.75C12.7 2.75 9.26 4.28 6.77 6.77C4.28 9.26 2.75 12.7 2.75 16.5C2.75 20.29 4.28 23.73 6.77 26.22C9.26 28.71 12.7 30.25 16.5 30.25C20.29 30.25 23.73 28.71 26.22 26.22Z" stroke="#FFFFFF" stroke-opacity="1.000000" stroke-width="2.500000" stroke-linejoin="round"/>
+		<path id="path" d="M10.14 17.38L10.11 17.38C9.62 16.88 9.62 16.11 10.11 15.61C10.61 15.12 11.38 15.12 11.88 15.61L11.88 15.64L10.14 17.38ZM22.49 11.51L22.49 11.49C22.98 10.99 23.76 10.99 24.25 11.49C24.75 11.98 24.75 12.76 24.25 13.25L24.23 13.25L22.49 11.51Z" fill="#000000" fill-opacity="0" fill-rule="nonzero"/>
+		<path id="path" d="M11 16.5L15.12 20.62L23.37 12.37" stroke="#FFFFFF" stroke-opacity="1.000000" stroke-width="2.500000" stroke-linejoin="round" stroke-linecap="round"/>
+	</g>
+</svg>

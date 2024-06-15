@@ -1,0 +1,97 @@
+@keyframes show-message {
+  0% {
+    opacity: 0;
+    visibility: hidden;
+    top: -60%;
+  }
+  50% {
+    opacity: 1;
+    visibility: visible;
+    top: -45%;
+  }
+  100% {
+    opacity: 0;
+    visibility: hidden;
+  }
+}
+* {
+  font-family: "Ubuntu", sans-serif;
+}
+
+body {
+  width: 100%;
+  background: #1A2130;
+  overflow-x: hidden;
+  position: relative;
+}
+body .message {
+  top: -60%;
+  left: 50%;
+  transform: translateX(-50%);
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  position: absolute;
+  max-width: 220px;
+  padding: 5px 9px;
+  border-radius: 10px;
+  color: #FFF;
+  visibility: hidden;
+  font-weight: 600;
+  user-select: none;
+}
+body .sucs {
+  animation-name: show-message;
+  animation-duration: 0.7s;
+  animation-fill-mode: forwards;
+  background: #73B873;
+}
+body .err {
+  animation-name: show-message;
+  animation-duration: 0.7s;
+  animation-fill-mode: forwards;
+  background: #DC4D57;
+}
+body .container {
+  margin: 150px auto 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 60%;
+}
+body .container .text {
+  color: #FFF;
+  width: 60%;
+  text-wrap: balance;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 700;
+  margin-bottom: 30px;
+}
+body .container .current-color {
+  box-sizing: border-box;
+  width: 110px;
+  height: 40px;
+  color: #FFF;
+  font-weight: 700;
+  padding: 10px;
+  font-size: 20px;
+  background: #5C88C4;
+  border-radius: 5px;
+  margin-bottom: 30px;
+  cursor: pointer;
+  line-height: 20px;
+}
+body .container .button {
+  cursor: pointer;
+  padding: 10px 5px;
+  border-radius: 7px;
+  font-size: 1.2rem;
+  outline: none;
+  border: none;
+  font-weight: 600;
+  background: #5C88C4;
+  color: #fff;
+}
+
+/*# sourceMappingURL=index.css.map */
